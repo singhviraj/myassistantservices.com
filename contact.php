@@ -73,8 +73,9 @@ include  'includes/header.php';
                       <div class="mb-3">
 
 <input type="checkbox" id="check" name="check" value="Bike" required>
- By providing your phone number, you agree to receive text messages from 
- My Assistant Services. Message and data rates may apply. Message frequently varies.<br>
+By submitting your phone number, you are consenting to receive text messages about Virtual Assistant services from
+ My Assistant Services LTD. You can opt-out at any time by texting "STOP. 
+Message & data rates may apply. See our <u><a href="privacy-policy.php">privacy policy </a> </u> here<br>
 
 </div> 
                       
